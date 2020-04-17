@@ -77,7 +77,7 @@ def logo():
               
 
 
-HACKERPROlogo = """\033[0m                                   
+HACKERP                            
    {1}--Information Gathering
    {2}--Password Attacks
    {3}--Wireless Testing
