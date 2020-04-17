@@ -5,7 +5,7 @@
 <p align="center">***Pentesing Tools That All Hacker Needs***</p>
  <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
 
-## HACKERPRO Menu :
+## MDDetected Menu :
 
 - Information Gathering
 - Password Attacks
