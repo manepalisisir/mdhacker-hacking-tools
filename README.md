@@ -93,37 +93,6 @@
 - POET
 - Weeman
 
-## Installation in Linux :
 
-Open Terminal and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
 
-After Downloading The File Type : ```sudo cd hackerpro && sudo python2 hackerpro.py```
 
-Video Tutorial : Coming Soon
-
-## Installation in Android :
-
-1st Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
-</center>
-
-Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
-
-After That Open Termux and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
-
-Then Type : ```cd hackerpro && python2 hackerpro.py```
-
-Video Tutorial : Coming Soon
-
-## License :
-
-[MIT Licence](https://github.com/technicaldada/hackerpro/blob/master/LICENSE)
-
-Thats It... If You Like This Repo. Please Share This With Your Friends..
-
-& Don't Forget To Visit Our [Blog For Hackers](https://www.kalilinux.in) !!!
-
-***Thankyou.***
-***Keep Visiting..***
-***Check our blog https://www.kalilinux.in***
-***Enjoy.!!! :)***
-<a href="https://www.kalilinux.in/" rel="dofollwo">Click Here</a>
